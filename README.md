@@ -1,2 +1,2 @@
 # Bug-priority
-Bug priority prediction using ML and DL algorithms
+Bug priority prediction using HYBRID  ML and DL algorithms
